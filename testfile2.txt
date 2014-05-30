@@ -1,1 +1,2 @@
 test message in another file
+This is from the master 
